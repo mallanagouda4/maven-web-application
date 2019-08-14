@@ -31,7 +31,9 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	
-	<repositories>
+<!-- Bellow snippest is used for dependendency froxy -->	
+	
+<!--	<repositories>
 		<repository>
 	 	 <id>nexus</id>
 	     	      <url>http://13.233.136.137:8081/repository/paytmproxy/</url>
@@ -46,7 +48,7 @@
 			<releases><enabled>true</enabled></releases>
 			<snapshots><enabled>true</enabled></snapshots>
 	    </pluginRepository>
-	</pluginRepositories>
+	</pluginRepositories> -->
 	<dependencies>
 
 		<!-- test dependencies -->
