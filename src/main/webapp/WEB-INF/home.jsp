@@ -12,9 +12,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions Pvt Ltd.</h1>
+<h1 align="center">Ravi KJ Softwares.</h1>
 <h1 align="center">
-	100 % Job Guarntee DevOps Program will start on July 28th..
+	100 % Build Guarantee..
 	Very Good Training center for DevOps in Maratha Halli and also for Job Assitance... and Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
