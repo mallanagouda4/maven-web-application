@@ -23,7 +23,7 @@
 		<spring.version>5.0.2.RELEASE</spring.version>
 		<junit.version>4.12</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://13.235.68.88:9000/</sonar.host.url>
+		<sonar.host.url>http://13.234.66.82:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>password</sonar.password>
 
@@ -36,7 +36,7 @@
 <!--	<repositories>
 		<repository>
 	 	 <id>nexus</id>
-	     	      <url>http://13.233.136.137:8081/repository/paytmproxy/</url>
+	     	      <url>http://35.154.4.254:8081/repository/paytmproxy/</url>
 			<releases><enabled>true</enabled></releases>
 			<snapshots><enabled>true</enabled></snapshots>
 	    </repository>
@@ -44,7 +44,7 @@
 	<pluginRepositories>
 		<pluginRepository>
 	 	 <id>nexus</id>
-	     	      <url>http://13.233.136.137:8081/repository/paytmproxy/</url>
+	     	      <url>http://35.154.4.254:8081/repository/paytmproxy/</url>
 			<releases><enabled>true</enabled></releases>
 			<snapshots><enabled>true</enabled></snapshots>
 	    </pluginRepository>
@@ -110,12 +110,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.105.124:8081/repository/paytm-release/</url>
+	      <url>http://35.154.4.254:8081/repository/paytm-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.105.124:8081/repository/paytm-snapshot/</url>
+	      <url>rhttp://35.154.4.254:8081/epository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
