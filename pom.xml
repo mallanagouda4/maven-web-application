@@ -33,7 +33,7 @@
 	
 <!-- Bellow snippest is used for dependendency froxy -->	
 	
-<!--	<repositories>
+	<repositories>
 		<repository>
 	 	 <id>nexus</id>
 	     	      <url>http://35.154.4.254:8081/repository/paytmproxy/</url>
@@ -48,7 +48,7 @@
 			<releases><enabled>true</enabled></releases>
 			<snapshots><enabled>true</enabled></snapshots>
 	    </pluginRepository>
-	</pluginRepositories> -->
+	</pluginRepositories> 
 	<dependencies>
 
 		<!-- test dependencies -->
